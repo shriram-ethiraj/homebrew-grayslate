@@ -1,6 +1,6 @@
 cask "grayslate" do
-  version "0.1.5"
-  sha256 "b4b475e87b1bad356292204c7962620b26a049c0aa20ca8fc1faacdbb1e95b36"
+  version "0.1.6"
+  sha256 "dfb0182f4755f1df0552bac34d00e3a69fff1cc18ed0d6a70c432860fa8a7f1a"
 
   url "https://github.com/shriram-ethiraj/grayslate/releases/download/v#{version}/Grayslate-#{version}-macos-universal-homebrew.dmg"
   name "Grayslate"
